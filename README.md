@@ -1,3 +1,2 @@
 # PASHADUROV
 tg bot
-gh

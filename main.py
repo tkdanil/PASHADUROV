@@ -1,3 +1,2 @@
 #TGBOT
 #startbot
-#ggtyghty
